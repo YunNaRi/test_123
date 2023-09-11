@@ -1,0 +1,117 @@
+[INFO ] [main] Importing project.
+[WARN ] [main] {"projectId":1508,"name":"VPES_tetris","key":"TETRIS","favorite":false,"language":"CSHARP","owners":[{"active":true,"email":"admin@static.io","id":1,"username":"admin"}],"analysisProgress":0.0,"ruleSet":[37,36],"description":"","createdDate":1694389485294,"revisionDate":-1,"ruleLanguage":"en_US"}
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Run Analysing.
+[INFO ] [main] --------------------NetAnalyzerExecutor--------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C# v4.6.0\NetAnalyzer\NetAnalyzer.exe,-s,"Tetris.sln",-o,"D:\VPES_GIT\git\VPES_Autumation\Tetris\.static\TETRIS",-l,"en_US",-r,"D:\VPES_GIT\git\VPES_Autumation\Tetris\.static\TETRIS.activeRules",-e,"D:\VPES_GIT\git\VPES_Autumation\Tetris\.static\TETRIS.exclusions","]
+[INFO ] [NetAnalyzerExecutor] Active code page: 65001
+[INFO ] [NetAnalyzerExecutor] [INFO] Start
+[INFO ] [NetAnalyzerExecutor] [INFO] make output directory: D:\VPES_GIT\git\VPES_Autumation\Tetris\.static\TETRIS
+[INFO ] [NetAnalyzerExecutor] [INFO] - Solution file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.sln
+[INFO ] [NetAnalyzerExecutor] [INFO] - Output path  : D:\VPES_GIT\git\VPES_Autumation\Tetris\.static\TETRIS
+[INFO ] [NetAnalyzerExecutor] 
+[INFO ] [NetAnalyzerExecutor] [INFO] Set Msbuild to latest: Visual Studio Professional 2019
+[INFO ] [NetAnalyzerExecutor] [INFO] start locale to en_US
+[INFO ] [NetAnalyzerExecutor] [INFO] start NETAnalyzer
+[INFO ] [NetAnalyzerExecutor] [INFO] Open the solution file.
+[INFO ] [NetAnalyzerExecutor] [INFO] anlayze solution: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.sln
+[INFO ] [NetAnalyzerExecutor] [INFO] analyze project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] copy ruleset toD:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine
+[INFO ] [NetAnalyzerExecutor] [INFO] open project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Board.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Game.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Interfaces\IMode.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Piece.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\PieceFactory.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyzer execution TIme: 00:00:00
+[INFO ] [NetAnalyzerExecutor] [INFO] make defect
+[INFO ] [NetAnalyzerExecutor] [INFO] analyze project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] copy ruleset toD:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI
+[INFO ] [NetAnalyzerExecutor] [INFO] open project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Program.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyzer execution TIme: 00:00:00
+[INFO ] [NetAnalyzerExecutor] [INFO] make defect
+[INFO ] [NetAnalyzerExecutor] [INFO] analyze project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] copy ruleset toD:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI
+[INFO ] [NetAnalyzerExecutor] [INFO] open project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Form1.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Form1.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Program.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyzer execution TIme: 00:00:00
+[INFO ] [NetAnalyzerExecutor] [INFO] make defect
+[INFO ] [NetAnalyzerExecutor] [INFO] analyze project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] copy ruleset toD:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test
+[INFO ] [NetAnalyzerExecutor] [INFO] open project: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\PieceTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\GameTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyze cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\BoardTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Analyzer execution TIme: 00:00:00
+[INFO ] [NetAnalyzerExecutor] [INFO] make defect
+[INFO ] [NetAnalyzerExecutor] [INFO] Found defects: 3
+[INFO ] [NetAnalyzerExecutor] [INFO] defect write to json.
+[INFO ] [NetAnalyzerExecutor] [INFO] NETAnalyzer finish
+[INFO ] [NetAnalyzerExecutor] [INFO] Calculate Metric
+[INFO ] [NetAnalyzerExecutor] [INFO] Open the solution file.
+[INFO ] [NetAnalyzerExecutor] [INFO] Initialize data.
+[INFO ] [NetAnalyzerExecutor] [INFO] Start calculating metrics.
+[INFO ] [NetAnalyzerExecutor] [DEBUG] Set timeout as 180000 milliseconds
+[INFO ] [NetAnalyzerExecutor] [INFO] [1/4] Tetris.GameEngine
+[INFO ] [NetAnalyzerExecutor] [DEBUG] Calculating for 7 files...
+[INFO ] [NetAnalyzerExecutor] [INFO] [2/4] Tetris.GameEngine.Test
+[INFO ] [NetAnalyzerExecutor] [DEBUG] Calculating for 5 files...
+[INFO ] [NetAnalyzerExecutor] [INFO] [3/4] Tetris.ConsoleUI
+[INFO ] [NetAnalyzerExecutor] [DEBUG] Calculating for 4 files...
+[INFO ] [NetAnalyzerExecutor] [INFO] [4/4] Tetris.DesktopUI
+[INFO ] [NetAnalyzerExecutor] [DEBUG] Calculating for 3 files...
+[INFO ] [NetAnalyzerExecutor] [INFO] Metric Caluator execution TIme: 00:00:00
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect CS file
+[INFO ] [NetAnalyzerExecutor] [INFO] Open the solution file.
+[INFO ] [NetAnalyzerExecutor] [INFO] anlayze solution: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.sln
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Board.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Game.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Interfaces\IMode.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Piece.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\PieceFactory.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Program.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.ConsoleUI\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Form1.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Form1.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Program.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.DesktopUI\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\PieceTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\GameTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collect cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\BoardTest.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Exclude cs file: D:\VPES_GIT\git\VPES_Autumation\Tetris\Tetris.GameEngine.Test\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+[INFO ] [NetAnalyzerExecutor] [INFO] Collected file numbers : 19
+[INFO ] [NetAnalyzerExecutor] [INFO] Execution TIme: 00:00:05
+[INFO ] [NetAnalyzerExecutor] [INFO] Analysis finished normally
+[INFO ] [main] Creating defect file.
+[INFO ] [main] Finish Analysis.
+[INFO ] [main] Uploading analysis data.
+[INFO ] [main] DONE.
