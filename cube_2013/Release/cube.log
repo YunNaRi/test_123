@@ -1,0 +1,22 @@
+﻿  Stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Cube.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Cubedoc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Cubeview.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Mainfrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Generating Code...
+  Microsoft (R) Incremental Linker Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:.\Release\Cube.exe" /INCREMENTAL:NO opengl32.lib glu32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed "/manifestinput:C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG "/PDB:.\Release\Cube.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:.\Release\Cube.lib" /MACHINE:X86 /SAFESEH /SAFESEH .\Release\Cube.res 
+  .\Release\Cube.obj 
+  .\Release\Cubedoc.obj 
+  .\Release\Cubeview.obj 
+  .\Release\Mainfrm.obj 
+  .\Release\Stdafx.obj 
+  cube.vcxproj -> F:\RCPTT\CT_RCPTT\RT_SampleCode\C++\VisualStudio\cube\cube_2015\.\Release\Cube.exe
+  cube.vcxproj -> .\Release\Cube.pdb (Full PDB)
