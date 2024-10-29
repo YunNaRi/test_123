@@ -1,0 +1,72 @@
+{
+    "D:/VPES_GIT/TEST_123/LARGE_CODE_SAMPLE/PROJECT1/LARGE_CODE_SAMPLE.C": [
+        "1efc15ef6040294153061ec9f2fe615f",
+        false,
+        false,
+        "64aabcd9",
+        "D:/VPES_GIT/test_123/large_code_sample/Project1/large_code_sample.c"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/PROFESSIONAL/VC/TOOLS/MSVC/14.29.30133/INCLUDE/VCRUNTIME.H": [
+        "_1147c94afb6f25c377433eef20bc3e8f",
+        true,
+        false,
+        "20d3e0ca",
+        "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/include/vcruntime.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.17763.0/UCRT/CORECRT_WSTDIO.H": [
+        "_7a1297c2c2711a55d0a16ab6e0295b36",
+        true,
+        false,
+        "1e36ea25",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_wstdio.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.17763.0/UCRT/CORECRT_STDIO_CONFIG.H": [
+        "_90f8c0c064461ce13aef5aba0f178c69",
+        true,
+        false,
+        "93683574",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt_stdio_config.h"
+    ],
+    "D:/VPES_GIT/TEST_123/LARGE_CODE_SAMPLE/.STATICDATA/PREINCLUDE/RECENT_PREINCLUDE_C.H": [
+        "306227024c018cd03aca28832762ed44_",
+        false,
+        true,
+        "dae7ffb3",
+        "D:/VPES_GIT/test_123/large_code_sample/.staticdata/preinclude/recent_preinclude_c.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.17763.0/UCRT/STDIO.H": [
+        "_fbd70ebcdfc4dc50f14b9db7fc2c9b4d",
+        true,
+        false,
+        "34c1d380",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt/stdio.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/PROFESSIONAL/VC/TOOLS/MSVC/14.29.30133/INCLUDE/SAL.H": [
+        "_825631602c1f162ed1010c7a2180d4a5",
+        true,
+        false,
+        "56872db5",
+        "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/include/sal.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.17763.0/UCRT/CORECRT.H": [
+        "_4ded0500e6b57b4c065ea265feeb1ba1",
+        true,
+        false,
+        "7642a5a",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt/corecrt.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/PROFESSIONAL/VC/TOOLS/MSVC/14.29.30133/INCLUDE/CONCURRENCYSAL.H": [
+        "_c2ae1a7d8fc7f3691e61759bb01c0ab2",
+        true,
+        false,
+        "5bd809",
+        "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/include/concurrencysal.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/PROFESSIONAL/VC/TOOLS/MSVC/14.29.30133/INCLUDE/VADEFS.H": [
+        "_a4b8f96637d0704c82f39ecb6bde2ab4",
+        true,
+        false,
+        "d32a24f8",
+        "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/include/vadefs.h"
+    ]
+}

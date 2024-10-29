@@ -1,0 +1,35 @@
+{
+    "buildCompleteTime": 1730159967347,
+    "buildLocation": "D:\\VPES_GIT\\test_123\\large_code_sample",
+    "modules": [
+        {
+            "dependencies": [],
+            "linkFlags": "\"/ERRORREPORT:QUEUE\" \"/OUT:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.exe\"\" \"/INCREMENTAL\" \"/ILK:\"x64\\Debug\\Project1.ilk\"\" \"/NOLOGO\" \"kernel32.lib\" \"user32.lib\" \"gdi32.lib\" \"winspool.lib\" \"comdlg32.lib\" \"advapi32.lib\" \"shell32.lib\" \"ole32.lib\" \"oleaut32.lib\" \"uuid.lib\" \"odbc32.lib\" \"odbccp32.lib\" \"/MANIFEST\" \"/MANIFESTUAC:\"level='asInvoker' uiAccess='false'\"\" \"/manifest:embed\" \"/D\" \"EBUG:FULL\" \"/PDB:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.pdb\"\" \"/TLBID:1\" \"/D\" \"YNAMICBASE\" \"/NXCOMPAT\" \"/IMPLIB:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.lib\"\" \"/MACHINE:X64\" \"D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug\\large_code_sample.obj\"",
+            "linkType": "execute",
+            "name": "Debug-Project1.exe",
+            "sources": [
+                {
+                    "compiler": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe",
+                    "dependencies": [
+                        "_1147c94afb6f25c377433eef20bc3e8f",
+                        "_4ded0500e6b57b4c065ea265feeb1ba1",
+                        "_7a1297c2c2711a55d0a16ab6e0295b36",
+                        "_825631602c1f162ed1010c7a2180d4a5",
+                        "_90f8c0c064461ce13aef5aba0f178c69",
+                        "_a4b8f96637d0704c82f39ecb6bde2ab4",
+                        "_c2ae1a7d8fc7f3691e61759bb01c0ab2",
+                        "_fbd70ebcdfc4dc50f14b9db7fc2c9b4d",
+                        "306227024c018cd03aca28832762ed44_"
+                    ],
+                    "fileHash": "1efc15ef6040294153061ec9f2fe615f",
+                    "language": "c",
+                    "normalizedFlags": "--define_macro=_VC_NODEFAULTLIB<cs_newline>-D_MBCS<cs_newline>--define_macro=_CPPUNWIND<cs_newline>--define_macro=_MT<cs_newline>--define_macro=_DLL<cs_newline>--define_macro=_DEBUG<cs_newline>--wchar_t_keyword<cs_newline>--default_calling_convention=__cdecl<cs_newline>--c<cs_newline>--c<cs_newline>-D__export=<cs_newline>-D_export=<cs_newline>--microsoft<cs_newline>-D_M_IX86=600<cs_newline>-D_WIN32= <cs_newline>--old_for_init<cs_newline>--signed_chars<cs_newline>--unsigned_bit_fields<cs_newline>--cs_int_size=4<cs_newline>--cs_float_size=4<cs_newline>--cs_double_size=8<cs_newline>--cs_long_size=4<cs_newline>--cs_size_t_kind=int<cs_newline>--microsoft_version=1929<cs_newline>--cs_replace_include_system<cs_newline>--display_error_number<cs_newline>--preinclude=D:\\VPES_GIT\\test_123\\large_code_sample\\.staticdata\\preinclude\\recent_preinclude_c.h<cs_newline>--cs_pointer_size=4<cs_newline>--target=win32<cs_newline>-D__PTRDIFF_TYPE__=int<cs_newline><cs_newline>--sys_include=C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\include<cs_newline>--sys_include=C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include<cs_newline>--sys_include=C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\include<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt<cs_newline>--sys_include=C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\UnitTest\\include<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\um<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\shared<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\winrt<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\cppwinrt<cs_newline>--sys_include=C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um<cs_newline>",
+                    "normalizedPath": "D:/VPES_GIT/TEST_123/LARGE_CODE_SAMPLE/PROJECT1/LARGE_CODE_SAMPLE.C",
+                    "originalFlags": "/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug /Fd D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug\\vc142.pdb /external:W3 /Gd /TC /FC /errorReport:queue D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\large_code_sample.c",
+                    "originalPath": "D:/VPES_GIT/test_123/large_code_sample/Project1/large_code_sample.c"
+                }
+            ]
+        }
+    ],
+    "schemaVersion": "1.0"
+}

@@ -1,0 +1,97 @@
+{
+    "7": {
+        "execve": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe",
+            [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe",
+                "/c",
+                "/ZI",
+                "/JMC",
+                "/nologo",
+                "/W3",
+                "/WX-",
+                "/diagnostics:column",
+                "/sdl",
+                "/Od",
+                "/D",
+                "_MBCS",
+                "/Gm-",
+                "/EHsc",
+                "/RTC1",
+                "/MDd",
+                "/GS",
+                "/fp:precise",
+                "/Zc:wchar_t",
+                "/Zc:forScope",
+                "/Zc:inline",
+                "/Fo",
+                "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug",
+                "/Fd",
+                "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug\\vc142.pdb",
+                "/external:W3",
+                "/Gd",
+                "/TC",
+                "/FC",
+                "/errorReport:queue",
+                "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\large_code_sample.c"
+            ],
+            "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1"
+        ],
+        "open": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\include\\concurrencysal.h",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\include\\sal.h",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\include\\vadefs.h",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime.h",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h",
+            "C:\\Users\\nryun\\AppData\\Local\\Temp\\tmp2737c22feadc46c9aa69b55f78c518b9.tmp",
+            "C:\\Users\\nryun\\AppData\\Local\\Temp\\{F9B771ED-C7DF-4F1C-BF7F-DC11B95F7E85}",
+            "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\large_code_sample.c",
+            "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug\\vc142.pdb"
+        ]
+    },
+    "11": {
+        "execve": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe",
+            [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe",
+                "/ERRORREPORT:QUEUE",
+                "/OUT:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.exe\"",
+                "/INCREMENTAL",
+                "/ILK:\"x64\\Debug\\Project1.ilk\"",
+                "/NOLOGO",
+                "kernel32.lib",
+                "user32.lib",
+                "gdi32.lib",
+                "winspool.lib",
+                "comdlg32.lib",
+                "advapi32.lib",
+                "shell32.lib",
+                "ole32.lib",
+                "oleaut32.lib",
+                "uuid.lib",
+                "odbc32.lib",
+                "odbccp32.lib",
+                "/MANIFEST",
+                "/MANIFESTUAC:\"level='asInvoker' uiAccess='false'\"",
+                "/manifest:embed",
+                "/D",
+                "EBUG:FULL",
+                "/PDB:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.pdb\"",
+                "/TLBID:1",
+                "/D",
+                "YNAMICBASE",
+                "/NXCOMPAT",
+                "/IMPLIB:\"D:\\VPES_GIT\\test_123\\large_code_sample\\x64\\Debug\\Project1.lib\"",
+                "/MACHINE:X64",
+                "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1\\x64\\Debug\\large_code_sample.obj"
+            ],
+            "D:\\VPES_GIT\\test_123\\large_code_sample\\Project1"
+        ],
+        "open": [
+            "C:\\Users\\nryun\\AppData\\Local\\Temp\\tmp0edb045e128c4806ac1bb85aa84d6081.tmp"
+        ]
+    }
+}

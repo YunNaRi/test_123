@@ -1,0 +1,8 @@
+"C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h",
+          line 10: catastrophic error #1696: cannot open source file
+          "vcruntime.h"
+  #include <vcruntime.h>
+                        ^
+
+1 catastrophic error detected in the compilation of "D:\VPES_GIT\test_123\large_code_sample\Project1\large_code_sample.c".
+Compilation terminated.

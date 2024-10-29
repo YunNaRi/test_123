@@ -1,0 +1,14 @@
+CMD: "C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\csfe_x64.exe" "/Flag" "D:\VPES_GIT\test_123\large_code_sample\.staticdata\.validation\valid_1\large_code_sample.1.c.flag" "/Source" "D:/VPES_GIT/test_123/large_code_sample/Project1/large_code_sample.c" "/FsMap" "D:\VPES_GIT\test_123\large_code_sample\.staticdata\.validation\valid_1\fs_map.json"
+
+Suresoft  (R) STATIC FE [v24061216-5821e53a7]
+Copyright (C) Suresoft Technologies Inc. All rights reserved.
+
+Parsing Failed
+"C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h",
+          line 10: catastrophic error #1696: cannot open source file
+          "vcruntime.h"
+  #include <vcruntime.h>
+                        ^
+
+1 catastrophic error detected in the compilation of "D:\VPES_GIT\test_123\large_code_sample\Project1\large_code_sample.c".
+Compilation terminated.
